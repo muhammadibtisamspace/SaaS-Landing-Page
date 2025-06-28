@@ -1,4 +1,4 @@
-import Container from "../shared/container";
+import Container from "../shared/Container";
 import NavItems from "../shared/NavItems";
 import BtnLink from "../shared/BtnLink";
 
