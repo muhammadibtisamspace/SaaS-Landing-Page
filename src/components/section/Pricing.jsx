@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../shared/container";
+import Container from "../shared/Container";
 import Paragraph from "../shared/Paragraph";
 import Title from "../shared/Title";
 import PricingPlan from "../shared/PricingPlan";
