@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../shared/container";
+import Container from "../shared/Container";
 
 const Numbers = () => {
   return (
